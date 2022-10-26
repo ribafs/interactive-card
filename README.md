@@ -6,6 +6,9 @@ See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
 
 ![](demo.gif)
 
+## Similar Project
+
+https://github.com/ribafs/interactive-card-form
 
 ## Project setup
 ```
