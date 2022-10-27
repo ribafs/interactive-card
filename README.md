@@ -6,9 +6,13 @@ See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
 
 ![](demo.gif)
 
-## Similar Project
+## Similar Project in Vue
 
 https://github.com/ribafs/interactive-card-form
+
+## Similar in React
+
+https://github.com/ribafs/interactive-card-react
 
 ## Project setup
 ```
